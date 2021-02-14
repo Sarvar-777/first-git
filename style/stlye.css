@@ -14,6 +14,7 @@ span{
     font-size: 100px;
     color: white;
     text-transform: uppercase;
+    box-shadow: 0 0 50px 30px rgb(13, 5, 128);
 }
 .main{
     background: linear-gradient(45grad,black,purple);
